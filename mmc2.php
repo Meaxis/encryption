@@ -1,4 +1,6 @@
 <?php
+	include 'conversiontable.inc';
+
 	if (isset($_POST['tmode']) && $_POST['tmode'] == "tonormal" && isset($_POST['text']))
 	{
 		$query = $bdd->prepare('SELECT * FROM gataouTranslate');
