@@ -2,7 +2,7 @@
 Custom encryption algorithms. Note that I do not use this on any website that store sensitive data such as passwords.
 
 ## MMC1
-MMC1 is my first encryption algorithm, it's just Caesar code
+MMC1 is my first encryption algorithm, it's just Caesar code! Available online at [this link](https://meaxis.fr/projects/cipher)
 
 ## MMC2
 MMC2 is a little bit more complicated as it inverts the string.
