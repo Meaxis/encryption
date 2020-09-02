@@ -3,9 +3,6 @@
 
 	if (isset($_POST['tmode']) && $_POST['tmode'] == "tonormal" && isset($_POST['text']))
 	{
-		$query = $bdd->prepare('SELECT * FROM gataouTranslate');
-		$query->execute();
-
 		$increment = 0;
 		$text = $_POST['text'];
 
