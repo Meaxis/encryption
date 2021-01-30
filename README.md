@@ -10,7 +10,7 @@ Back when I had to write on paper notes during school, I always had the fear of 
 Thus, I needed to invent simple ciphering algorithms that would be cipherable and decipherable by mind. My first idea was the Caesar code, whom was slow to decipher & cipher and was unpractical. It's MMSC0.
 
 Then came an idea from the Caméra de Surveillance : what about dividing the letters in two rows, and then referring to the letter of the other row?
-![mmc1explain.jpg](A table with 13 letters on the upper row, and 13 on the lower row)
+![https://meaxis.fr/assets/images/mmc1explain.jpg](A table with 13 letters on the upper row, and 13 on the lower row)
 Thus, on this image, A became M, B became N, Z became L... etc.
 
 Unfortunately, this method proved rather... *uneffective*. It was so "mindly readable" *(in this text, the adjective "Mindly" is used to mean "Can be understood by the educated human mind)* that everyone I knew guessed how to decipher it after around 15 minutes. From the dumbest to the smartest, to the simplest of minds. All of them (refer to my MMC1 section for pseudo-credits).
