@@ -1,4 +1,5 @@
-# The MMSC (MeaxisNetwork Modern Standard Cipher) / MMC (MeaxisNetwork Modern Cipher) / MMMC (MeaxisNetwork Mindly Modern Cipher) / MMMSC (MeaxisNetwork Mindly Modern Standard Cipher)
+# The MMSC (MeaxisNetwork Modern Standard Cipher) Project
+##### Also known as: MMC (MeaxisNetwork Modern Cipher) / MMMC (MeaxisNetwork Mindly Modern Cipher) / MMMSC (MeaxisNetwork Mindly Modern Standard Cipher)
 Custom encryption algorithms. Note that I do not use this on any website that store sensitive data such as passwords.
 
 ## MMSC1 (MeaxisNetwork Modern Standard Cipher)
