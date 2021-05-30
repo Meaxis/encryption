@@ -4,9 +4,7 @@ These are custom encryption algorithms. Note that I do not use this on any websi
 These are made to be decipherable by an intelligent human mind. That means, in English, that it's easy enough to be deciphered by a mind.
 
 ## Research & Cause
-If you're curious about the research, read this. Otherwise, scroll to get a list of the algorithms.
-
-*(in this text, the adjective "Mindly" is used to signify "Can be understood by the educated human mind)*
+*This is mostly a huge paragraph about my reasoning, my research and my thoughts about these algorithms. If you just want to learn about the algorithms in themselves, skip this entire part. In this text, the adjective "Mindly" is used to signify "Can be understood by the educated human mind")*
 Back when I had to write on paper notes during school, I always had the fear of losing them. What if someone found a paper with "MeaxisNetwork" written on it? *Context: I hate people from IRL knowing my internet presence. Only ~10 people know my internet username, 3 by mistake.*.
 
 The algorithm needed to meet four conditions:
