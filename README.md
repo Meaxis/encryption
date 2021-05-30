@@ -21,7 +21,7 @@ Then came an idea from the Caméra de Surveillance : what about dividing the let
 ![A table with 13 letters on the upper row, and 13 on the lower row](https://meaxis.fr/assets/images/mmc1explain.jpg)
 Thus, on this image, A became M, B became N, Z became L... etc.
 
-Unfortunately, this method proved rather... *uneffective*. It was so "*mindly* readable" that everyone I knew guessed how to decipher it after around 15 minutes. From the dumbest to the smartest, to the simplest of minds. All of them (refer to my MMC1 section for pseudo-credits).
+Unfortunately, this method proved rather... *uneffective*. It was so "*mindly* readable" that everyone I knew guessed how to decipher it after around 15 minutes. From the simplest to the smartest minds. All of them (refer to my MMC1 section for pseudo-credits).
 
 Then came the MMSC2, that was still do-able from mind... but painstakingly hard. It's just a reverse of the string.
 Eventually came MMSC3, which is... *uneffective* too, but differently. It's almost mindly unreadable/unwriteable. 
@@ -30,7 +30,7 @@ Eventually, one day, the holy Ciphering Method shall come to save us all. Who kn
 
 ## MMSC1 (MeaxisNetwork Modern Standard Cipher)
 MMC1 is my first encryption algorithm, it's just Caesar code! Available online at [this link](https://meaxis.fr/projects/cipher)!
-Edit: it has came to my attention that this method is WAY EASIER to manually guess than I thought. Congratulations to *Shn.*, *SphinxDuke*, *Prm.*, *G[M²]. (that takes people to brazil)* and *J.* for guessing how it works and bringing that up to my attention!
+Edit: it has came to my attention that this method is WAY EASIER to manually guess than I thought. Congratulations to *S.*, *SphinxDuke*, *Prm.*, *G[M²]. (that takes people to brazil)* and *J.* for guessing how it works and bringing that up to my attention!
 
 ### Checklist for this algorithm:
 - [ ] Cannot be guessed by one whom has not been teached it
