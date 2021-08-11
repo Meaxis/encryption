@@ -43,9 +43,9 @@ MMC2 is a little bit more complicated as it inverts the string. Available online
 
 ### Checklist for this algorithm:
 - [x] Cannot be guessed by one whom has not been teached it
-- [ ] Can be *mindly* written & read by those whom have been taught it
-- [ ] Can be written & read by an algorithm
-- [ ] Does not require additional information apart from the message itself
+- [x] Can be *mindly* written & read by those whom have been taught it
+- [x] Can be written & read by an algorithm
+- [x] Does not require additional information apart from the message itself
 
 ## MMSC3 (MeaxisNetwork Modern Standard Cipher Three)
 MMSC3 is not publicly available as it is still used. (see picture below)
