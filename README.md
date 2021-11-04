@@ -7,7 +7,7 @@ These are made to be decipherable by an intelligent human mind. That means, in E
 *This is mostly a huge paragraph about my reasoning, my research and my thoughts about these algorithms. If you just want to learn about the algorithms in themselves, skip this entire part. In this text, the adjective "Mindly" is used to signify "Can be understood by the educated human mind")*
 
 
-Back when I had to write on paper notes during school, I always had the fear of losing them. What if someone found a paper with "MeaxisNetwork" written on it? *Context: I hate people from IRL knowing my internet presence. Only ~10 people know my internet username, 3 by mistake.*.
+Back when I had to write on paper notes during school, I always had the fear of losing them. What if someone found a paper with "MeaxisNetwork" written on it? - *Context: I hate people from IRL knowing my internet presence. Only ~10 people know my internet username, 3 by mistake.* - To prevent that from happening, I decided to make up a ciphering algorithm that I could use with myself & some of my friends that I actually trusted with being able to know my online presence.
 
 The algorithm needed to meet four conditions:
 - [ ] Cannot be guessed by one whom has not been teached it
@@ -19,7 +19,7 @@ Thus, I needed to invent simple ciphering algorithms that would be *mindly* ciph
 
 Then came an idea from the Caméra de Surveillance : what about dividing the letters in two rows, and then referring to the letter of the other row?
 ![A table with 13 letters on the upper row, and 13 on the lower row](https://meaxis.fr/assets/images/mmc1explain.jpg)
-Thus, on this image, A became M, B became N, Z became L... etc.
+Thus, on this image, A became N, B became O, Z became M... etc.
 
 Unfortunately, this method proved rather... *uneffective*. It was so "*mindly* readable" that everyone I knew guessed how to decipher it after around 15 minutes. From the simplest to the smartest minds. All of them (refer to my MMC1 section for pseudo-credits).
 
